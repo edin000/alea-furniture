@@ -1,0 +1,441 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+font-family: 'Karla', sans-serif;
+font-style: normal;   
+}
+
+.Logo{
+margin-top: 20px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin:0 20px;
+margin-left: 105px;
+
+}
+
+
+
+img{
+width: 70px;
+height: 41px;
+margin-top: 15px;
+    
+}
+
+.top-left{
+width: 300px;
+display: flex;
+justify-content: space-around;
+}
+
+
+a{
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+color: #000000;
+text-decoration: none;
+}
+
+
+.Information{
+width: 513px;
+height: 356px;
+background: #D2C7F0;
+margin-left: 105px;
+margin-top: 59px;
+}
+
+h1{
+height: 120px;
+font-weight: bold;
+font-size: 48px;
+line-height: 66px;
+letter-spacing: -0.07em;
+color: #000000;
+margin-left: 39px;
+}
+
+p{
+width: 377px;
+font-weight: normal;
+font-size: 20px;
+line-height: 157.9%;
+color: #000000;
+margin-left: 39px;
+}
+
+.our-products{
+width: 180px;
+height: 40px;
+background: #000000;
+margin-left: 38px;
+font-size: 15px;
+line-height: 157.9%;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+
+.contact-us{
+width: 180px;
+height: 40px;
+border: 2px solid #000000;
+box-sizing: border-box;   
+font-weight: bold;
+font-size: 15px;
+line-height: 157.9%;
+text-transform: uppercase;
+color: #000000;
+background-color: #D2C7F0;
+margin-left: 28px;
+margin-top: 22px;
+}
+
+.Foto-palidhje{
+width: 693px;
+height: 356px;
+margin-left: 514px;
+margin-top: -262px;
+}
+
+
+
+.Text-h1{
+width: 509px;
+height: 377px;
+margin-top: 85px;
+margin-left: 70px;
+}
+
+.h-1{
+font-weight: bold;
+font-size: 80px;
+line-height: 104.4%;
+letter-spacing: -0.1em;
+color: #000000;
+}
+
+.Mision-purple{
+color: #d2c7f1 ;
+}
+
+
+.Lorem-text{
+margin-left: 590px;
+margin-top: -400px;;
+}
+
+.Lorem{
+width: 693px;
+height: 352px;
+font-weight: normal;
+font-size: 20px;
+line-height: 157.9%;
+text-align: justify;
+color: #62666D;
+}
+
+.products-h1{
+width: 185px;
+height: 124px;
+font-weight: bold;
+font-size: 48px;
+line-height: 66px;
+letter-spacing: -0.07em;
+color: #000000;
+margin-left: 100px;
+margin-top: 37px;
+}
+
+.best-selling{
+font-weight: normal;
+font-size: 28px;
+line-height: 138.4%;
+letter-spacing: -0.07em;
+color: #62666D;
+margin-left: 412px;
+margin-top: -105px;
+}
+
+.most-popular{
+font-weight: normal;
+font-size: 28px;
+line-height: 138.4%;
+letter-spacing: -0.07em;
+color: #62666D;
+margin-left: 632px;
+margin-top: -38px;
+}
+
+.categories{
+width: 450px;
+height: 39px;
+margin-left: 495px;
+margin-top: 70px;
+
+}
+
+.categories-about{
+font-weight: normal;
+font-size: 25px;
+line-height: 157.9%; 
+color:  #62666D;
+display: flex;
+justify-content: space-around;
+}
+
+.all{
+color: #000000;
+font-weight: bold;
+}
+
+.vintage-chair{
+width: 497px;
+height: 415px;
+}
+
+.Rectangle-1{
+width: 307px;
+height: 227px;
+border-radius: 30px 30px 0px 0px;
+margin-left: 100px;
+margin-top: 34px;
+}
+
+.name-chair{
+width: 217px;
+height: 42px; 
+font-weight: bold;
+font-size: 40px;
+line-height: 104.4%;  
+letter-spacing: -0.1em;
+color: #000000;
+margin-left: 160px;
+margin-top: -210px;
+}
+
+.price-chair{
+font-weight: normal;
+font-size: 30px;
+line-height: 104.4%;
+letter-spacing: -0.1em;
+color: #62666D;
+margin-left: 160px;
+}
+
+.chair{
+font-weight: normal;
+font-size: 20px;
+line-height: 104.4%;  
+letter-spacing: -0.1em;
+color: rgba(98, 102, 109, 0.46);
+margin-left: 160px;
+}
+
+.VINTAGE-CHAIR{
+width: 190px;
+height: 190px;
+margin-left: 150px;
+margin-top: -5px;
+}
+
+
+
+.Closetto{
+width: 505px;
+height: 227px;
+
+}
+
+.Rectangle-2{
+width: 307px;
+height: 227px;
+border-radius: 30px 30px 0px 0px;
+margin-left: 566px;
+display: flex;
+justify-content: center;
+margin-top: -375px;
+}
+
+.name{
+font-weight: bold;
+font-size: 40px;
+line-height: 104.4%;  
+letter-spacing: -0.1em;
+color: #000000;
+margin-left: 611px;
+margin-top: -210px;
+}
+
+.price{
+font-weight: normal;
+font-size: 30px;
+line-height: 104.4%;
+letter-spacing: -0.1em;
+color: #62666D;
+margin-left: 611px; 
+margin-top: -80px;
+}
+
+
+.closet{
+font-weight: normal;
+font-size: 20px;
+line-height: 104.4%;  
+letter-spacing: -0.1em;
+color: rgba(98, 102, 109, 0.46);
+margin-left: 611px; 
+}
+
+.image-item{
+width: 294px;
+height: 220px;
+margin-left: 573px;
+margin-top: -16px;
+}
+
+
+.Dresser{
+margin-left: 450px;
+margin-top: 145px ;
+}
+
+
+.Georgian{
+margin-top: 550px;
+margin-left: -470px;
+}
+
+
+
+.rug{
+width: 294px;
+height: 220px;
+margin-left: 600px;
+}
+
+
+
+.Curtains{
+width: 211px;
+height: 190px;
+margin-left: 614px; 
+}
+
+.Symphonic{
+margin-top: 10px;
+}
+
+.Luxury{
+margin-left: 442px;
+margin-top: 45px;
+}
+
+.sofa{
+width: 252px;
+height: 174px; 
+margin-left: 600px; 
+}
+
+
+
+.name-chair-2{
+width: 567px;
+height: 94px;
+font-weight: bold;
+font-size: 70px;
+line-height: 104.4%;
+letter-spacing: -0.1em;
+color: #000000;
+margin-left: 117px;
+margin-top: 34px;
+}
+
+.description{
+width: 504px;
+height: 438px;
+}
+
+.lorem-text-dumb{
+font-weight: normal;
+font-size: 20px;
+line-height: 150.9%;
+text-align: justify;
+letter-spacing: -0.1em;
+color: #62666D;
+}
+
+.color{
+width: 68px;
+height: 39px; 
+font-weight: normal;
+font-size: 28px;
+line-height: 138.4%;
+letter-spacing: -0.07em;
+color: #62666D;
+margin-top: 36px;
+}
+
+.colors{
+    margin-left: 110px;
+    margin-top: -45px;
+    display: flex;
+    justify-content: space-around;
+}
+.blue{
+    width: 27px;
+    height: 27px;
+}
+
+.purple{
+    width: 27px;
+    height: 27px;
+}
+
+.light-brown{
+    width: 27px;
+    height: 27px;
+}
+
+.black{
+    width: 27px;
+    height: 27px;
+}
+
+.price-2{
+width: 567px;
+height: 73px; 
+font-weight: bold;
+font-size: 70px;
+line-height: 104.4%;
+letter-spacing: -0.1em;
+color: #000000;
+margin-top: 49px;
+}
+
+.contact{
+width: 185px;
+height: 124px;
+font-weight: bold;
+font-size: 48px;
+line-height: 66px;
+letter-spacing: -0.07em;
+color: #000000;
+margin-left: 117px;
+margin-top: 37px;
+}
+
+.contact-map{
+width: 606px;
+height: 558px;
+margin-left: 117px;
+background: url(asdren.png);
+}
+
